@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\Reverse String\Parsing\bin\Debug\Parsing.exe.config
+C:\Users\Admin\source\repos\Reverse String\Parsing\bin\Debug\Parsing.exe
+C:\Users\Admin\source\repos\Reverse String\Parsing\bin\Debug\Parsing.pdb
+C:\Users\Admin\source\repos\Reverse String\Parsing\obj\Debug\Parsing.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Reverse String\Parsing\obj\Debug\Parsing.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Reverse String\Parsing\obj\Debug\Parsing.exe
+C:\Users\Admin\source\repos\Reverse String\Parsing\obj\Debug\Parsing.pdb

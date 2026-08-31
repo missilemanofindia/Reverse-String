@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\Reverse String\SwapNumber\bin\Debug\SwapNumber.exe.config
+C:\Users\Admin\source\repos\Reverse String\SwapNumber\bin\Debug\SwapNumber.exe
+C:\Users\Admin\source\repos\Reverse String\SwapNumber\bin\Debug\SwapNumber.pdb
+C:\Users\Admin\source\repos\Reverse String\SwapNumber\obj\Debug\Args_Ex.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Reverse String\SwapNumber\obj\Debug\SwapNumber.exe
+C:\Users\Admin\source\repos\Reverse String\SwapNumber\obj\Debug\SwapNumber.pdb
+C:\Users\Admin\source\repos\Reverse String\SwapNumber\obj\Debug\Args_Ex.csprojAssemblyReference.cache

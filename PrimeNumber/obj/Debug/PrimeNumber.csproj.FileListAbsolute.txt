@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\Reverse String\PrimeNumber\bin\Debug\PrimeNumber.exe.config
+C:\Users\Admin\source\repos\Reverse String\PrimeNumber\bin\Debug\PrimeNumber.exe
+C:\Users\Admin\source\repos\Reverse String\PrimeNumber\bin\Debug\PrimeNumber.pdb
+C:\Users\Admin\source\repos\Reverse String\PrimeNumber\obj\Debug\PrimeNumber.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Reverse String\PrimeNumber\obj\Debug\PrimeNumber.exe
+C:\Users\Admin\source\repos\Reverse String\PrimeNumber\obj\Debug\PrimeNumber.pdb
+C:\Users\Admin\source\repos\Reverse String\PrimeNumber\obj\Debug\PrimeNumber.csprojAssemblyReference.cache

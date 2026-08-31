@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\Reverse String\CountDigitsInNumber\bin\Debug\CountDigitsInNumber.exe.config
+C:\Users\Admin\source\repos\Reverse String\CountDigitsInNumber\bin\Debug\CountDigitsInNumber.exe
+C:\Users\Admin\source\repos\Reverse String\CountDigitsInNumber\bin\Debug\CountDigitsInNumber.pdb
+C:\Users\Admin\source\repos\Reverse String\CountDigitsInNumber\obj\Debug\CountDigitsInNumber.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Reverse String\CountDigitsInNumber\obj\Debug\CountDigitsInNumber.exe
+C:\Users\Admin\source\repos\Reverse String\CountDigitsInNumber\obj\Debug\CountDigitsInNumber.pdb
+C:\Users\Admin\source\repos\Reverse String\CountDigitsInNumber\obj\Debug\CountDigitsInNumber.csprojAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\Admin\source\repos\Reverse String\AutomatedReportthroughArgs\bin\Debug\AutomatedReportthroughArgs.exe.config
+C:\Users\Admin\source\repos\Reverse String\AutomatedReportthroughArgs\bin\Debug\AutomatedReportthroughArgs.exe
+C:\Users\Admin\source\repos\Reverse String\AutomatedReportthroughArgs\bin\Debug\AutomatedReportthroughArgs.pdb
+C:\Users\Admin\source\repos\Reverse String\AutomatedReportthroughArgs\obj\Debug\AutomatedReportthroughArgs.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Reverse String\AutomatedReportthroughArgs\obj\Debug\AutomatedReportthroughArgs.exe
+C:\Users\Admin\source\repos\Reverse String\AutomatedReportthroughArgs\obj\Debug\AutomatedReportthroughArgs.pdb

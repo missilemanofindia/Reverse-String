@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\Reverse String\OTP\bin\Debug\OTP.exe.config
+C:\Users\Admin\source\repos\Reverse String\OTP\bin\Debug\OTP.exe
+C:\Users\Admin\source\repos\Reverse String\OTP\bin\Debug\OTP.pdb
+C:\Users\Admin\source\repos\Reverse String\OTP\obj\Debug\OTP.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Reverse String\OTP\obj\Debug\OTP.exe
+C:\Users\Admin\source\repos\Reverse String\OTP\obj\Debug\OTP.pdb
+C:\Users\Admin\source\repos\Reverse String\OTP\obj\Debug\OTP.csprojAssemblyReference.cache

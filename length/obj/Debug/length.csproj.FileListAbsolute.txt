@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\Reverse String\length\bin\Debug\length.exe.config
+C:\Users\Admin\source\repos\Reverse String\length\bin\Debug\length.exe
+C:\Users\Admin\source\repos\Reverse String\length\bin\Debug\length.pdb
+C:\Users\Admin\source\repos\Reverse String\length\obj\Debug\length.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Reverse String\length\obj\Debug\length.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Reverse String\length\obj\Debug\length.exe
+C:\Users\Admin\source\repos\Reverse String\length\obj\Debug\length.pdb

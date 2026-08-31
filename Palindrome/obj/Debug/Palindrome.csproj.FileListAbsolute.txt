@@ -1,0 +1,6 @@
+C:\Users\Admin\source\repos\Reverse String\Palindrome\bin\Debug\Palindrome.exe.config
+C:\Users\Admin\source\repos\Reverse String\Palindrome\bin\Debug\Palindrome.exe
+C:\Users\Admin\source\repos\Reverse String\Palindrome\bin\Debug\Palindrome.pdb
+C:\Users\Admin\source\repos\Reverse String\Palindrome\obj\Debug\Palindrome.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Reverse String\Palindrome\obj\Debug\Palindrome.exe
+C:\Users\Admin\source\repos\Reverse String\Palindrome\obj\Debug\Palindrome.pdb

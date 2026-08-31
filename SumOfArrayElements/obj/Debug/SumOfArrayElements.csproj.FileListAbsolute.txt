@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\Reverse String\SumOfArrayElements\bin\Debug\SumOfArrayElements.exe.config
+C:\Users\Admin\source\repos\Reverse String\SumOfArrayElements\bin\Debug\SumOfArrayElements.exe
+C:\Users\Admin\source\repos\Reverse String\SumOfArrayElements\bin\Debug\SumOfArrayElements.pdb
+C:\Users\Admin\source\repos\Reverse String\SumOfArrayElements\obj\Debug\SumOfArrayElements.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Reverse String\SumOfArrayElements\obj\Debug\SumOfArrayElements.exe
+C:\Users\Admin\source\repos\Reverse String\SumOfArrayElements\obj\Debug\SumOfArrayElements.pdb
+C:\Users\Admin\source\repos\Reverse String\SumOfArrayElements\obj\Debug\SumOfArrayElements.csprojAssemblyReference.cache

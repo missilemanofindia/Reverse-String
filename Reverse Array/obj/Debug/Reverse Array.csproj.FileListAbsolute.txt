@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\Reverse String\Reverse Array\bin\Debug\Reverse Array.exe.config
+C:\Users\Admin\source\repos\Reverse String\Reverse Array\bin\Debug\Reverse Array.exe
+C:\Users\Admin\source\repos\Reverse String\Reverse Array\bin\Debug\Reverse Array.pdb
+C:\Users\Admin\source\repos\Reverse String\Reverse Array\obj\Debug\Reverse Array.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Reverse String\Reverse Array\obj\Debug\Reverse Array.exe
+C:\Users\Admin\source\repos\Reverse String\Reverse Array\obj\Debug\Reverse Array.pdb
+C:\Users\Admin\source\repos\Reverse String\Reverse Array\obj\Debug\Reverse Array.csprojAssemblyReference.cache

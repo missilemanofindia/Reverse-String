@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\Reverse String\BinarySearch\bin\Debug\BinarySearch.exe.config
+C:\Users\Admin\source\repos\Reverse String\BinarySearch\bin\Debug\BinarySearch.exe
+C:\Users\Admin\source\repos\Reverse String\BinarySearch\bin\Debug\BinarySearch.pdb
+C:\Users\Admin\source\repos\Reverse String\BinarySearch\obj\Debug\BinarySearch.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Reverse String\BinarySearch\obj\Debug\BinarySearch.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Reverse String\BinarySearch\obj\Debug\BinarySearch.exe
+C:\Users\Admin\source\repos\Reverse String\BinarySearch\obj\Debug\BinarySearch.pdb

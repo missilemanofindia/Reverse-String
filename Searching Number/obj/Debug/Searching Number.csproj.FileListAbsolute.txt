@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\Reverse String\Searching Number\bin\Debug\Searching Number.exe.config
+C:\Users\Admin\source\repos\Reverse String\Searching Number\bin\Debug\Searching Number.exe
+C:\Users\Admin\source\repos\Reverse String\Searching Number\bin\Debug\Searching Number.pdb
+C:\Users\Admin\source\repos\Reverse String\Searching Number\obj\Debug\Searching Number.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Reverse String\Searching Number\obj\Debug\Searching Number.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Reverse String\Searching Number\obj\Debug\Searching Number.exe
+C:\Users\Admin\source\repos\Reverse String\Searching Number\obj\Debug\Searching Number.pdb

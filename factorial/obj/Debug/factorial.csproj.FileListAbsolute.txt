@@ -1,0 +1,6 @@
+C:\Users\Admin\source\repos\Reverse String\factorial\bin\Debug\factorial.exe.config
+C:\Users\Admin\source\repos\Reverse String\factorial\bin\Debug\factorial.exe
+C:\Users\Admin\source\repos\Reverse String\factorial\bin\Debug\factorial.pdb
+C:\Users\Admin\source\repos\Reverse String\factorial\obj\Debug\factorial.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Reverse String\factorial\obj\Debug\factorial.exe
+C:\Users\Admin\source\repos\Reverse String\factorial\obj\Debug\factorial.pdb

@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\Reverse String\Duplicate\bin\Debug\Duplicate.exe.config
+C:\Users\Admin\source\repos\Reverse String\Duplicate\bin\Debug\Duplicate.exe
+C:\Users\Admin\source\repos\Reverse String\Duplicate\bin\Debug\Duplicate.pdb
+C:\Users\Admin\source\repos\Reverse String\Duplicate\obj\Debug\Duplicate.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Reverse String\Duplicate\obj\Debug\Duplicate.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Reverse String\Duplicate\obj\Debug\Duplicate.exe
+C:\Users\Admin\source\repos\Reverse String\Duplicate\obj\Debug\Duplicate.pdb

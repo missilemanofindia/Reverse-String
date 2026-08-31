@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\Reverse String\BubbleSort\bin\Debug\BubbleSort.exe.config
+C:\Users\Admin\source\repos\Reverse String\BubbleSort\bin\Debug\BubbleSort.exe
+C:\Users\Admin\source\repos\Reverse String\BubbleSort\bin\Debug\BubbleSort.pdb
+C:\Users\Admin\source\repos\Reverse String\BubbleSort\obj\Debug\BubbleSort.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Reverse String\BubbleSort\obj\Debug\BubbleSort.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Reverse String\BubbleSort\obj\Debug\BubbleSort.exe
+C:\Users\Admin\source\repos\Reverse String\BubbleSort\obj\Debug\BubbleSort.pdb

@@ -10,6 +10,7 @@ namespace BubbleSort
     {
         static void Main(string[] args)
         {
+            int[] Arr = { 5, 6, 2, 7, 1, 8, 3 };
         }
     }
 }

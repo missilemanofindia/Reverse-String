@@ -5,3 +5,6 @@ C:\Users\Admin\source\repos\Reverse String\length\obj\Debug\length.csprojAssembl
 C:\Users\Admin\source\repos\Reverse String\length\obj\Debug\length.csproj.CoreCompileInputs.cache
 C:\Users\Admin\source\repos\Reverse String\length\obj\Debug\length.exe
 C:\Users\Admin\source\repos\Reverse String\length\obj\Debug\length.pdb
+C:\Users\Admin\source\repos\Reverse String\length\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Admin\source\repos\Reverse String\length\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\Admin\source\repos\Reverse String\length\obj\Debug\length.csproj.CopyComplete

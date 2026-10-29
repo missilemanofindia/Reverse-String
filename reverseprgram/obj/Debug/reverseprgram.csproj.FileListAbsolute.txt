@@ -1,0 +1,6 @@
+C:\Users\Admin\source\repos\Reverse String\reverseprgram\bin\Debug\reverseprgram.dll
+C:\Users\Admin\source\repos\Reverse String\reverseprgram\bin\Debug\reverseprgram.pdb
+C:\Users\Admin\source\repos\Reverse String\reverseprgram\obj\Debug\reverseprgram.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Reverse String\reverseprgram\obj\Debug\reverseprgram.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Reverse String\reverseprgram\obj\Debug\reverseprgram.dll
+C:\Users\Admin\source\repos\Reverse String\reverseprgram\obj\Debug\reverseprgram.pdb

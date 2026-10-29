@@ -5,3 +5,6 @@ C:\Users\Admin\source\repos\Reverse String\Parsing\obj\Debug\Parsing.csprojAssem
 C:\Users\Admin\source\repos\Reverse String\Parsing\obj\Debug\Parsing.csproj.CoreCompileInputs.cache
 C:\Users\Admin\source\repos\Reverse String\Parsing\obj\Debug\Parsing.exe
 C:\Users\Admin\source\repos\Reverse String\Parsing\obj\Debug\Parsing.pdb
+C:\Users\Admin\source\repos\Reverse String\Parsing\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Admin\source\repos\Reverse String\Parsing\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\Admin\source\repos\Reverse String\Parsing\obj\Debug\Parsing.csproj.CopyComplete

@@ -5,3 +5,6 @@ C:\Users\Admin\source\repos\Reverse String\OTP\obj\Debug\OTP.csproj.CoreCompileI
 C:\Users\Admin\source\repos\Reverse String\OTP\obj\Debug\OTP.exe
 C:\Users\Admin\source\repos\Reverse String\OTP\obj\Debug\OTP.pdb
 C:\Users\Admin\source\repos\Reverse String\OTP\obj\Debug\OTP.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Reverse String\OTP\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Admin\source\repos\Reverse String\OTP\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\Admin\source\repos\Reverse String\OTP\obj\Debug\OTP.csproj.CopyComplete

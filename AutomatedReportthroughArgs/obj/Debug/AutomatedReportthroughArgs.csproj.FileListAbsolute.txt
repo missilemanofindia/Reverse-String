@@ -4,3 +4,6 @@ C:\Users\Admin\source\repos\Reverse String\AutomatedReportthroughArgs\bin\Debug\
 C:\Users\Admin\source\repos\Reverse String\AutomatedReportthroughArgs\obj\Debug\AutomatedReportthroughArgs.csproj.CoreCompileInputs.cache
 C:\Users\Admin\source\repos\Reverse String\AutomatedReportthroughArgs\obj\Debug\AutomatedReportthroughArgs.exe
 C:\Users\Admin\source\repos\Reverse String\AutomatedReportthroughArgs\obj\Debug\AutomatedReportthroughArgs.pdb
+C:\Users\Admin\source\repos\Reverse String\AutomatedReportthroughArgs\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Admin\source\repos\Reverse String\AutomatedReportthroughArgs\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\Admin\source\repos\Reverse String\AutomatedReportthroughArgs\obj\Debug\AutomatedReportthroughArgs.csproj.CopyComplete

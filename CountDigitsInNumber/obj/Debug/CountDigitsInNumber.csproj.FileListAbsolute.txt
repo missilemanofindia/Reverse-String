@@ -4,4 +4,6 @@ C:\Users\Admin\source\repos\Reverse String\CountDigitsInNumber\bin\Debug\CountDi
 C:\Users\Admin\source\repos\Reverse String\CountDigitsInNumber\obj\Debug\CountDigitsInNumber.csproj.CoreCompileInputs.cache
 C:\Users\Admin\source\repos\Reverse String\CountDigitsInNumber\obj\Debug\CountDigitsInNumber.exe
 C:\Users\Admin\source\repos\Reverse String\CountDigitsInNumber\obj\Debug\CountDigitsInNumber.pdb
-C:\Users\Admin\source\repos\Reverse String\CountDigitsInNumber\obj\Debug\CountDigitsInNumber.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Reverse String\CountDigitsInNumber\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Admin\source\repos\Reverse String\CountDigitsInNumber\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\Admin\source\repos\Reverse String\CountDigitsInNumber\obj\Debug\CountDigitsInNumber.csproj.CopyComplete

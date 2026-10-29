@@ -5,3 +5,6 @@ C:\Users\Admin\source\repos\Reverse String\SwapNumber\obj\Debug\Args_Ex.csproj.C
 C:\Users\Admin\source\repos\Reverse String\SwapNumber\obj\Debug\SwapNumber.exe
 C:\Users\Admin\source\repos\Reverse String\SwapNumber\obj\Debug\SwapNumber.pdb
 C:\Users\Admin\source\repos\Reverse String\SwapNumber\obj\Debug\Args_Ex.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Reverse String\SwapNumber\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Admin\source\repos\Reverse String\SwapNumber\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\Admin\source\repos\Reverse String\SwapNumber\obj\Debug\Args_Ex.csproj.CopyComplete

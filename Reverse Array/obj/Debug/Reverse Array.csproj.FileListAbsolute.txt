@@ -5,3 +5,6 @@ C:\Users\Admin\source\repos\Reverse String\Reverse Array\obj\Debug\Reverse Array
 C:\Users\Admin\source\repos\Reverse String\Reverse Array\obj\Debug\Reverse Array.exe
 C:\Users\Admin\source\repos\Reverse String\Reverse Array\obj\Debug\Reverse Array.pdb
 C:\Users\Admin\source\repos\Reverse String\Reverse Array\obj\Debug\Reverse Array.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Reverse String\Reverse Array\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Admin\source\repos\Reverse String\Reverse Array\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\Admin\source\repos\Reverse String\Reverse Array\obj\Debug\Reverse Array.csproj.CopyComplete

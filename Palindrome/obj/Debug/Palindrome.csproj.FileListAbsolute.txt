@@ -4,3 +4,7 @@ C:\Users\Admin\source\repos\Reverse String\Palindrome\bin\Debug\Palindrome.pdb
 C:\Users\Admin\source\repos\Reverse String\Palindrome\obj\Debug\Palindrome.csproj.CoreCompileInputs.cache
 C:\Users\Admin\source\repos\Reverse String\Palindrome\obj\Debug\Palindrome.exe
 C:\Users\Admin\source\repos\Reverse String\Palindrome\obj\Debug\Palindrome.pdb
+C:\Users\Admin\source\repos\Reverse String\Palindrome\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Admin\source\repos\Reverse String\Palindrome\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\Admin\source\repos\Reverse String\Palindrome\obj\Debug\Palindrome.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Reverse String\Palindrome\obj\Debug\Palindrome.csproj.CopyComplete

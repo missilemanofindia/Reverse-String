@@ -4,4 +4,6 @@ C:\Users\Admin\source\repos\Reverse String\SumOfArrayElements\bin\Debug\SumOfArr
 C:\Users\Admin\source\repos\Reverse String\SumOfArrayElements\obj\Debug\SumOfArrayElements.csproj.CoreCompileInputs.cache
 C:\Users\Admin\source\repos\Reverse String\SumOfArrayElements\obj\Debug\SumOfArrayElements.exe
 C:\Users\Admin\source\repos\Reverse String\SumOfArrayElements\obj\Debug\SumOfArrayElements.pdb
-C:\Users\Admin\source\repos\Reverse String\SumOfArrayElements\obj\Debug\SumOfArrayElements.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Reverse String\SumOfArrayElements\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Admin\source\repos\Reverse String\SumOfArrayElements\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\Admin\source\repos\Reverse String\SumOfArrayElements\obj\Debug\SumOfArrayElements.csproj.CopyComplete

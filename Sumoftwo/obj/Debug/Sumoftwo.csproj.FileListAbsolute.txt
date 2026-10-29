@@ -1,0 +1,9 @@
+C:\Users\Admin\source\repos\Reverse String\Sumoftwo\bin\Debug\Sumoftwo.exe.config
+C:\Users\Admin\source\repos\Reverse String\Sumoftwo\bin\Debug\Sumoftwo.exe
+C:\Users\Admin\source\repos\Reverse String\Sumoftwo\bin\Debug\Sumoftwo.pdb
+C:\Users\Admin\source\repos\Reverse String\Sumoftwo\obj\Debug\Sumoftwo.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Reverse String\Sumoftwo\obj\Debug\Sumoftwo.exe
+C:\Users\Admin\source\repos\Reverse String\Sumoftwo\obj\Debug\Sumoftwo.pdb
+C:\Users\Admin\source\repos\Reverse String\Sumoftwo\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Admin\source\repos\Reverse String\Sumoftwo\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\Admin\source\repos\Reverse String\Sumoftwo\obj\Debug\Sumoftwo.csproj.CopyComplete

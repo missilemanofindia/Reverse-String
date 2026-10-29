@@ -4,3 +4,7 @@ C:\Users\Admin\source\repos\Reverse String\factorial\bin\Debug\factorial.pdb
 C:\Users\Admin\source\repos\Reverse String\factorial\obj\Debug\factorial.csproj.CoreCompileInputs.cache
 C:\Users\Admin\source\repos\Reverse String\factorial\obj\Debug\factorial.exe
 C:\Users\Admin\source\repos\Reverse String\factorial\obj\Debug\factorial.pdb
+C:\Users\Admin\source\repos\Reverse String\factorial\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Admin\source\repos\Reverse String\factorial\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\Admin\source\repos\Reverse String\factorial\obj\Debug\factorial.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Reverse String\factorial\obj\Debug\factorial.csproj.CopyComplete

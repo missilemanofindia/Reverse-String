@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\Reverse String\practise\bin\Debug\practise.exe.config
+C:\Users\Admin\source\repos\Reverse String\practise\bin\Debug\practise.exe
+C:\Users\Admin\source\repos\Reverse String\practise\bin\Debug\practise.pdb
+C:\Users\Admin\source\repos\Reverse String\practise\obj\Debug\practise.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Reverse String\practise\obj\Debug\practise.exe
+C:\Users\Admin\source\repos\Reverse String\practise\obj\Debug\practise.pdb
+C:\Users\Admin\source\repos\Reverse String\practise\obj\Debug\practise.csprojAssemblyReference.cache

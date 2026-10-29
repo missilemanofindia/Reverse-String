@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\Reverse String\Add\bin\Debug\Add.exe.config
+C:\Users\Admin\source\repos\Reverse String\Add\bin\Debug\Add.exe
+C:\Users\Admin\source\repos\Reverse String\Add\bin\Debug\Add.pdb
+C:\Users\Admin\source\repos\Reverse String\Add\bin\Debug\addition.dll
+C:\Users\Admin\source\repos\Reverse String\Add\bin\Debug\addition.pdb
+C:\Users\Admin\source\repos\Reverse String\Add\obj\Debug\Add.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Reverse String\Add\obj\Debug\Add.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Reverse String\Add\obj\Debug\Add.csproj.CopyComplete
+C:\Users\Admin\source\repos\Reverse String\Add\obj\Debug\Add.exe
+C:\Users\Admin\source\repos\Reverse String\Add\obj\Debug\Add.pdb
